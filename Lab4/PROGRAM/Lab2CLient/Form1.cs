@@ -186,7 +186,7 @@ namespace Lab2CLient
 
         private void helpContextToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Help.ShowHelp(this, "file://C:\\Users\\Ser\\source\\repos\\lab3\\Help\\Help.chm");
+            Help.ShowHelp(this, "file://..\\lab4\\HELP\\Help.chm");
         }   
     }
 }
